@@ -1,3 +1,5 @@
-#COVID 19
+# COVID 19
 
-Everyont is doing it, might as well look at it myself instead of relying on being informed by the media and interpretation of others
+Everyone is doing it, might as well look at it myself instead of relying on being informed by the media and interpretation of others
+
+See the post in context [here](https://tclack88.github.io/blog/code/2020/04/03/covid.html)
